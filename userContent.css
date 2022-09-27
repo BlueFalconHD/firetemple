@@ -1,0 +1,15 @@
+:root {
+    --ctp-text: #cdd6f4
+    --ctp-bg: #1e1e2e;
+    --ctp-green: #a6e3a1;
+}
+
+
+/*
+* {
+    background-color: var(--ctp-bg);
+    font-family: "Victor Mono" !important;
+    font-weight: medium !important;
+    /* border-top: 2px var(--ctp-green) solid; */
+}
+*/
