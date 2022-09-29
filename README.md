@@ -62,22 +62,22 @@ echo "$PREFSTRING" >> "${FFOXPROFILE}user.js"
 ## 🛵 Extras
 ### 🧩 Extensions
 <details>
-    <summary>Click to show extension list.</>
-
-| Name                                                                                                                                                            | Tags                                                                      |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|
-|[Anti-Adblock Blocker](https://addons.mozilla.org//firefox/addon/%7B7616a0b7-d0b6-4a0d-ad65-c9b35d96bad4%7D)                                                     |  🦊                                                                        |
-|[notion-enhancer](https://addons.mozilla.org//firefox/addon/%7B9b7fdccc-1ec0-478b-bfce-08a8820a5df6%7D)                                                          | [✨](https://github.com/notion-enhancer)                                   |
-|[Custom New Tab Page](https://addons.mozilla.org//firefox/addon/custom-new-tab-page%40mint.as)                                                                   | [✨](https://github.com/MethodGrab/firefox-custom-new-tab-page)            |
-|[Grammar & Spell Checker — LanguageTool](https://addons.mozilla.org//firefox/addon/languagetool-webextension%40languagetool.org)                                 |  🏅 Local-run server is open sourced.                                      |
-|[Tridactyl](https://addons.mozilla.org//firefox/addon/tridactyl.vim%40cmcaine.co.uk)                                                                             | [✨](https://github.com/tridactyl/tridactyl) 🏅                             |
-|[DuckDuckGo Privacy Essentials](https://addons.mozilla.org//firefox/addon/jid1-ZAdIEUB7XOzOJw%40jetpack)                                                         | [✨](https://github.com/duckduckgo/duckduckgo-privacy-extension) 🛑         |
-|[AdNauseam](https://addons.mozilla.org//firefox/addon/adnauseam%40rednoise.org)                                                                                  | [✨](https://github.com/dhowe/AdNauseam) 🛑                                 |
-|[Tampermonkey](https://addons.mozilla.org//firefox/addon/firefox%40tampermonkey.net)                                                                             | [✨](https://github.com/Tampermonkey/) 🏅 V2.9 AND UP ARE NOT OPEN SOURCED  |
-|[uBlock Origin](https://addons.mozilla.org//firefox/addon/uBlock0%40raymondhill.net)                                                                             | [✨](https://github.com/gorhill/uBlock) 🏅 🛑                                |
-|[ClearURLs](https://addons.mozilla.org//firefox/addon/%7B74145f27-f039-47ce-a470-a662b129930a%7D)                                                                | [✨](https://gitlab.com/KevinRoebert/ClearUrls) 🏅                          |
-|[Ghostery – Privacy Ad Blocker](https://addons.mozilla.org//firefox/addon/firefox%40ghostery.com)                                                                | [✨](https://github.com/ghostery) 🏅 🛑                                      |
-> ✨ Open source, 🏅 Must have, 🦊 Firefox port of open sourced extension, 🛑 Adblock/Privacy
+    <summary>Click to show extension list.</summary>
+    
+  | Name                                                                                                                                                            | Tags                                                                      |
+  |-----------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|
+  |[Anti-Adblock Blocker](https://addons.mozilla.org//firefox/addon/%7B7616a0b7-d0b6-4a0d-ad65-c9b35d96bad4%7D)                                                     |  🦊                                                                        |
+  |[notion-enhancer](https://addons.mozilla.org//firefox/addon/%7B9b7fdccc-1ec0-478b-bfce-08a8820a5df6%7D)                                                          | [✨](https://github.com/notion-enhancer)                                   |
+  |[Custom New Tab Page](https://addons.mozilla.org//firefox/addon/custom-new-tab-page%40mint.as)                                                                   | [✨](https://github.com/MethodGrab/firefox-custom-new-tab-page)            |
+  |[Grammar & Spell Checker — LanguageTool](https://addons.mozilla.org//firefox/addon/languagetool-webextension%40languagetool.org)                                 |  🏅 Local-run server is open sourced.                                      |
+  |[Tridactyl](https://addons.mozilla.org//firefox/addon/tridactyl.vim%40cmcaine.co.uk)                                                                             | [✨](https://github.com/tridactyl/tridactyl) 🏅                             |
+  |[DuckDuckGo Privacy Essentials](https://addons.mozilla.org//firefox/addon/jid1-ZAdIEUB7XOzOJw%40jetpack)                                                         | [✨](https://github.com/duckduckgo/duckduckgo-privacy-extension) 🛑         |
+  |[AdNauseam](https://addons.mozilla.org//firefox/addon/adnauseam%40rednoise.org)                                                                                  | [✨](https://github.com/dhowe/AdNauseam) 🛑                                 |
+  |[Tampermonkey](https://addons.mozilla.org//firefox/addon/firefox%40tampermonkey.net)                                                                             | [✨](https://github.com/Tampermonkey/) 🏅 V2.9 AND UP ARE NOT OPEN SOURCED  |
+  |[uBlock Origin](https://addons.mozilla.org//firefox/addon/uBlock0%40raymondhill.net)                                                                             | [✨](https://github.com/gorhill/uBlock) 🏅 🛑                                |
+  |[ClearURLs](https://addons.mozilla.org//firefox/addon/%7B74145f27-f039-47ce-a470-a662b129930a%7D)                                                                | [✨](https://gitlab.com/KevinRoebert/ClearUrls) 🏅                          |
+  |[Ghostery – Privacy Ad Blocker](https://addons.mozilla.org//firefox/addon/firefox%40ghostery.com)                                                                | [✨](https://github.com/ghostery) 🏅 🛑                                      |
+  > ✨ Open source, 🏅 Must have, 🦊 Firefox port of open sourced extension, 🛑 Adblock/Privacy
 
 </details>
 
