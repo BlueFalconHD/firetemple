@@ -27,6 +27,7 @@
 
 To install, clone this repository with `git clone https://github.com/bluefalconhd/firetemple`, then [find your Firefox profile path](./profiles.md), and copy it to your clipboard (if you haven't already done so).
 ## 🤖 Automatic
+### THIS ISN'T IMPLEMENTED YET, PLEASE USE MANUAL
 > **Note**: Automatic installation supports only *nix based systems for now. Also I recommend manual because it is better to install firetemple manually if for some reason I made the install script malicious.
 > 
 To run the automatic installation, `cd` into the cloned repoitory's location and run `chmod +x install.sh` to make the install script executable. Then run `./install.sh` to run the install script. This will prompt you to paste the previously copied profile path. Then this will copy the necessary files to this location and add a couple settings to your `user.js`.
